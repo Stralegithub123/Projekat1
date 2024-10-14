@@ -1,0 +1,3 @@
+Ovde ide neki kod koji je vezan za feature 2
+On se trenutno radi na odvojenoj grani
+Na taj nacin je originalni kod siguran jer jos uvek te grane nisu megovane
