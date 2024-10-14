@@ -1,0 +1,2 @@
+Ovaj fail bi trebalio da se nakom commitovanja nalazi samo na master grani
+Ajde da vidimo da li je to tako
