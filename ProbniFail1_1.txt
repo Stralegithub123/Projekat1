@@ -2,3 +2,4 @@ Neki tekst
 Neki drugi tekst
 Ajde sada da dodamo nesto novo!
 Ajde sad nesto novo?"Nova linija koda"
+Dodajem liniju koja bi trebalo da se vidi samo na feature_2 grani
